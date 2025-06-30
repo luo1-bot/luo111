@@ -6,4 +6,5 @@ export default function Hello() {
       <Hello />
     </div>
   )
+  
 }
