@@ -7,4 +7,5 @@ export default function Home() {
       <h1>自定义内容</h1>
     </div>
   )
+  
 }

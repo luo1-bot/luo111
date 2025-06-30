@@ -5,4 +5,5 @@ export default function Page({ children }) {
     <p className="text-rose-700">welcome to my homepage.</p>
     </div>
     );
+    
 }
