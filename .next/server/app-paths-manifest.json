@@ -1,0 +1,9 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/qanything/kb-list/route": "app/api/qanything/kb-list/route.js",
+  "/api/wakatime/route": "app/api/wakatime/route.js",
+  "/chat/page": "app/chat/page.js",
+  "/exercises/page": "app/exercises/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js"
+}
